@@ -1,0 +1,450 @@
+Lead ID	Full Name	Email	Phone	Date of creation	Stage	Dispo	Date of action	Source	Market	Manager	Quiz result	Abandoned at
+397	Luna Hill	luna.hill37@example.com	(924) 555-3800	Sep 20, 2026	Passed quiz		9/22/2026 3:31	TikTok	Dallas		Pass	
+395	Nora Lopez	nora.lopez50@example.com	(396) 555-0135	Aug 13, 2026	Passed quiz		Aug 20, 2026	Indeed	Phoenix		Pass	
+329	James King	james.king12@example.com	(623) 555-8887	8/10/2026 12:24	2nd interview showed	Held 2nd interview - undetermined outcome	8/18/2026 5:36	Referral	Dallas		Pass	
+42	Jayden Reyes	jayden.reyes88@example.com	(472) 555-5167	Sep 6, 2026	Lead			TikTok	Dallas			
+165	Jayden Ramirez	jayden.ramirez90@example.com	(969) 555-0646	10/7/2026 13:54	Lead			Indeed	Las Vegas			
+275	Isabella Hernandez	isabella.hernandez38@example.com	(551) 555-9371	Sep 10, 2026	Lead			Instagram	Phoenix			
+389	Julian Anderson	julian.anderson30@example.com	(598) 555-1833	2026-08-31 11:14:00	1st interview no-show	No show	2026-09-07 03:37:00	TikTok	Tampa		Pass	
+393	Noah Smith	noah.smith55@example.com	(816) 555-1604	2026-10-06T02:24:47.968Z	Lead			Indeed	Tampa			
+198	Ava Davis	ava.davis10@example.com	(407) 555-7273	9/3/2026 14:15	Lead			Referral	Phoenix			
+79	Mia Ramirez	mia.ramirez26@example.com	(598) 555-6555	2026-08-13T03:20:31.697Z	1st interview booked		Aug 17, 2026	Facebook	Phoenix		Pass	
+204	James Garcia	james.garcia61@example.com	(960) 555-8577	8/24/2026 21:33	1st interview booked		Sep 4, 2026	Indeed	Dallas		Pass	
+211	Lily Smith	lily.smith84@example.com	(967) 555-9284	2026-10-07T00:37:09.796Z	1st interview booked		Oct 8, 2026	Referral	Dallas		Pass	
+445	ELLIE SCOTT		(358) 555-2779	Oct 7, 2026	Passed quiz		Oct 8, 2026	Indeed	Dallas		Pass	
+269	Ethan Hill	ethan.hill18@example.com	(814) 555-5369	2026-08-20T21:06:56.746Z	Disqualified			Referral	Tampa		Fail	
+402	Ava Scott	ava.scott90@example.com	(221) 555-8444	9/7/2026 23:29	Lead			Instagram	Denver			
+69	Isabella Davis	isabella.davis33@example.com	(884) 555-9154	2026-08-13T10:54:08.753Z	1st interview showed	Held 1st interview	8/20/2026 5:13	TikTok	Tampa	Carlos M.	Pass	
+115	Levi Hernandez	levi.hernandez63@example.com	(447) 555-4480	2026-09-19T04:23:45.546Z	Abandoned quiz			Facebook	Dallas			Q3
+61	Aiden Hill	aiden.hill40@example.com	(447) 555-9943	Aug 21, 2026	Lead			TikTok	Las Vegas			
+386	Zoe Walker	zoe.walker59@example.com	(766) 555-2317	2026-09-03T10:26:41.509Z	1st interview showed	Held 1st interview	2026-09-13T02:02:54.330Z	Referral	Denver	Tyrell B.	Pass	
+215	Sofia Martinez	sofia.martinez41@example.com	(430) 555-2382	2026-08-18 09:55:00	Lead			Instagram	Tampa			
+429	JAYDEN BAKER		(373) 555-2485	2026-10-01 09:49:00	Disqualified			Facebook	Las Vegas		Fail	
+88	Owen Nguyen	owen.nguyen57@example.com	(477) 555-1026	2026-10-04 01:44:00	1st interview showed	Held 1st interview	Oct 7, 2026	Facebook	Tampa	Tyrell B.	Pass	
+414	Ivy Lewis	ivy.lewis93@example.com	(871) 555-9592	2026-08-18 16:33:00	Lead			Instagram	Las Vegas			
+296	Carter Anderson	carter.anderson56@example.com	(296) 555-3119	2026-09-10T08:37:40.573Z	1st interview showed	Held 1st interview	2026-09-16 14:13:00	Facebook	Dallas		Pass	
+288	Jayden Flores	jayden.flores63@example.com	(868) 555-0513	Sep 27, 2026	Passed quiz		Oct 6, 2026	Instagram	Las Vegas		Pass	
+158	Zoe Smith	zoe.smith73@example.com	(769) 555-7953	2026-10-06T04:11:44.157Z	Lead			Indeed	Dallas			
+176	Lucas Lee	lucas.lee59@example.com	(331) 555-7163	8/10/2026 18:38	Abandoned quiz			Indeed	Tampa			Q1
+83	Hazel King	hazel.king13@example.com	(947) 555-5803	8/23/2026 21:32	Lead			TikTok	Denver			
+89	Emma Moore	emma.moore69@example.com	(227) 555-9292	2026-08-18 23:21:00	Lead			Instagram	Las Vegas			
+227	Aurora Green	aurora.green82@example.com	(755) 555-3621	Sep 8, 2026	1st interview no-show	No show	Sep 11, 2026	Facebook	Denver		Pass	
+285	Caleb Wilson	caleb.wilson55@example.com	(510) 555-6812	9/21/2026 10:29	1st interview no-show	No show	2026-09-23T03:02:33.775Z	Facebook	Tampa		Pass	
+398	Emma Allen	emma.allen78@example.com	(920) 555-6269	8/10/2026 11:35	1st interview no-show	No show	Aug 22, 2026	Facebook	Phoenix		Pass	
+424	OLIVIA RAMIREZ		(424) 555-2004	2026-08-28T06:07:29.724Z	Disqualified			Referral	Phoenix		Fail	
+54	Aria Reyes	aria.reyes10@example.com	(923) 555-6181	8/11/2026 3:39	Abandoned quiz			TikTok	Denver			Q1
+347	Layla Baker	layla.baker14@example.com	(734) 555-6660	2026-08-26 05:31:00	Abandoned quiz			Indeed	Denver			Q1
+448	TEST TEST	qa.test@example.com	(000) 555-0000	10/5/2026 12:00	Passed quiz		2026-10-06T12:00:00.000Z	Facebook	Phoenix		Pass	
+117	Lily Hernandez	lily.hernandez74@example.com	(809) 555-1793	Sep 9, 2026	1st interview booked		Sep 20, 2026	Indeed	Denver		Pass	
+220	Leo Brown	leo.brown48@example.com	(331) 555-3190	2026-09-26 23:39:00	2nd interview booked	Held 1st interview	2026-09-30 14:09:00	Instagram	Dallas		Pass	
+363	Carter Torres	carter.torres57@example.com	(274) 555-5483	2026-08-20 17:44:00	1st interview no-show	No show	8/23/2026 2:24	Facebook	Phoenix		Pass	
+19	Liam Anderson	liam.anderson69@example.com	(397) 555-6479	Sep 15, 2026	Disqualified			TikTok	Phoenix		Fail	
+226	Jayden Baker	jayden.baker91@example.com	(373) 555-2485	2026-10-01 09:49:00	Disqualified			Facebook	Las Vegas		Fail	
+126	Levi Hill	levi.hill35@example.com	(872) 555-9782	2026-08-11T05:58:56.718Z	Passed quiz		2026-08-13T09:35:44.640Z	TikTok	Tampa		Pass	
+110	Leo Moore	leo.moore65@example.com	(369) 555-8483	2026-10-05 03:38:00	1st interview no-show	No show	10/8/2026 12:00	Facebook	Phoenix		Pass	
+86	Caleb Allen	caleb.allen72@example.com	(836) 555-2370	9/14/2026 21:17	1st interview showed	Held 1st interview	2026-09-21T05:15:09.650Z	Indeed	Phoenix		Pass	
+316	Camila Smith	camila.smith57@example.com	(997) 555-8813	9/9/2026 14:37	Lead			Facebook	Tampa			
+216	Aiden Scott	aiden.scott33@example.com	(967) 555-1204	Aug 22, 2026	1st interview showed	Held 1st interview	2026-08-24T08:18:22.876Z	Facebook	Denver	Jenna R.	Pass	
+284	Aria Adams	aria.adams76@example.com	(974) 555-9186	10/2/2026 2:01	Abandoned quiz			Facebook	Denver			Q6
+46	Lily Lewis	lily.lewis77@example.com	(660) 555-1493	2026-09-16T08:52:15.819Z	Passed quiz		9/27/2026 19:09	Instagram	Dallas		Pass	
+323	Isaac Taylor	isaac.taylor31@example.com	(223) 555-5196	Aug 29, 2026	Abandoned quiz			Indeed	Tampa			Q6
+225	Levi Martinez	levi.martinez57@example.com	(867) 555-3009	9/13/2026 0:13	Passed quiz		2026-09-15T11:53:32.197Z	Referral	Dallas		Pass	
+280	Layla Smith	layla.smith31@example.com	(208) 555-0212	2026-08-27T14:09:47.806Z	Abandoned quiz			TikTok	Las Vegas			Q3
+209	Mateo Davis	mateo.davis52@example.com	(958) 555-7782	2026-10-02T18:29:16.252Z	Lead			TikTok	Denver			
+190	Julian Lee	julian.lee46@example.com	(485) 555-3897	Oct 2, 2026	Abandoned quiz			Indeed	Phoenix			Q4
+29	Isabella Torres	isabella.torres52@example.com	(483) 555-5745	Aug 14, 2026	2nd interview booked	Held 1st interview	2026-08-20T05:27:20.691Z	Facebook	Las Vegas		Pass	
+142	Wyatt Wilson	wyatt.wilson77@example.com	(213) 555-5705	2026-10-07T01:19:53.881Z	1st interview showed	Held 1st interview	2026-10-08T12:00:00.000Z	Facebook	Dallas		Pass	
+129	Emma Martinez	emma.martinez35@example.com	(428) 555-6767	2026-08-11 11:13:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-08-14T00:08:40.061Z	Indeed	Las Vegas		Pass	
+390	Caleb Nguyen	caleb.nguyen29@example.com	(415) 555-3380	2026-09-25 18:49:00	Abandoned quiz			Instagram	Dallas			Q6
+327	Ethan Walker	ethan.walker99@example.com	(216) 555-3448	2026-09-30T06:05:26.223Z	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-08 12:00:00	Referral	Tampa	Tyrell B.	Pass	
+312	Nora Lee	nora.lee72@example.com	(615) 555-4311	Aug 25, 2026	Disqualified			Referral	Phoenix		Fail	
+25	Levi Taylor	levi.taylor73@example.com	(387) 555-3387	9/3/2026 18:43	2nd interview showed	Held 2nd interview - undetermined outcome	Sep 15, 2026	Referral	Tampa	Jenna R.	Pass	
+114	Isabella Rivera	isabella.rivera85@example.com	(386) 555-6201	Sep 16, 2026	Hired	Hired	Sep 20, 2026	Instagram	Las Vegas		Pass	
+99	Lily Lee	lily.lee96@example.com	(825) 555-2935	Aug 19, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	Aug 29, 2026	TikTok	Denver		Pass	
+254	Hudson Rivera	hudson.rivera38@example.com	(716) 555-7995	Aug 14, 2026	Hired	Hired	Aug 24, 2026	Referral	Denver	Jenna R.	Pass	
+304	Olivia Baker	olivia.baker33@example.com	(703) 555-3921	8/19/2026 10:25	2nd interview showed	Held 2nd interview - undetermined outcome	Aug 29, 2026	TikTok	Denver	Carlos M.	Pass	
+90	Ava Ramirez	ava.ramirez68@example.com	(554) 555-1640	Aug 24, 2026	Abandoned quiz			Facebook	Tampa			Q3
+422	Isabella Taylor	isabella.taylor97@example.com	(609) 555-1278	9/30/2026 5:22	Lead			Referral	Tampa			
+9	Mateo Baker	mateo.baker21@example.com	(687) 555-2327	2026-09-19T02:04:22.393Z	Abandoned quiz			Facebook	Dallas			Q6
+381	Owen Lee	owen.lee17@example.com	(276) 555-1925	2026-08-16T02:21:31.970Z	1st interview no-show	No show	Aug 20, 2026	Referral	Denver		Pass	
+26	Daniel King	daniel.king18@example.com	(740) 555-6956	Sep 2, 2026	Passed quiz		Sep 15, 2026	Facebook	Dallas		Pass	
+148	Noah Moore	noah.moore60@example.com	(505) 555-8451	9/11/2026 0:47	Disqualified			Facebook	Phoenix		Fail	
+371	Owen Baker	owen.baker19@example.com	(377) 555-3854	2026-08-11T00:09:51.070Z	2nd interview booked	Held 1st interview	8/22/2026 12:11	Indeed	Las Vegas	Jenna R.	Pass	
+92	Isabella Adams	isabella.adams50@example.com	(222) 555-7671	Aug 10, 2026	2nd interview booked	Held 1st interview	Aug 15, 2026	Facebook	Denver		Pass	
+326	Luna Allen	luna.allen84@example.com	(467) 555-0139	2026-09-25 19:50:00	Abandoned quiz			TikTok	Tampa			Q2
+197	Sofia Hernandez	sofia.hernandez87@example.com	(910) 555-0967	2026-09-08 18:49:00	Passed quiz		9/18/2026 4:00	TikTok	Denver		Pass	
+258	Mateo Rivera	mateo.rivera33@example.com	(709) 555-0367	9/19/2026 5:13	Abandoned quiz			Instagram	Tampa			Q5
+27	Mateo Johnson	mateo.johnson52@example.com	(694) 555-6244	2026-09-09T06:55:34.719Z	1st interview booked		Sep 18, 2026	Indeed	Dallas		Pass	
+425	Liam Rivera	liam.rivera32@example.com	(371) 555-6653	Sep 6, 2026	1st interview showed	Held 1st interview	Sep 13, 2026	TikTok	Phoenix		Pass	
+169	Elijah Rivera	elijah.rivera65@example.com	(659) 555-3752	2026-08-29T03:48:22.806Z	Lead			TikTok	Denver			
+206	Lucas Adams	lucas.adams40@example.com	(394) 555-6519	2026-09-17T01:45:36.479Z	Abandoned quiz			Indeed	Tampa			Q4
+267	Stella Lewis	stella.lewis79@example.com	(855) 555-2244	Aug 19, 2026	Disqualified			Facebook	Phoenix		Fail	
+391	Ava Rivera	ava.rivera92@example.com	(480) 555-2511	2026-09-22T07:16:46.890Z	1st interview showed	Held 1st interview	9/26/2026 18:06	TikTok	Phoenix	Tyrell B.	Pass	
+3	Ava Nguyen	ava.nguyen25@example.com	(233) 555-0075	2026-09-04T06:19:55.025Z	Abandoned quiz			Instagram	Tampa			Q2
+103	Julian Wilson	julian.wilson27@example.com	(961) 555-2863	2026-09-28 06:32:00	1st interview booked		2026-09-30 09:16:00	Facebook	Denver		Pass	
+163	Lily Anderson	lily.anderson81@example.com	(768) 555-7883	2026-08-10 17:31:00	Abandoned quiz			Indeed	Phoenix			Q1
+205	Julian Taylor	julian.taylor84@example.com	(380) 555-3416	8/29/2026 11:39	2nd interview booked	Held 1st interview	2026-08-31 12:22:00	TikTok	Phoenix	Carlos M.	Pass	
+118	Ava Scott	ava.scott23@example.com	(993) 555-9783	9/23/2026 6:24	1st interview no-show	No show	2026-09-29T12:54:40.048Z	Referral	Las Vegas		Pass	
+50	Hudson Flores	hudson.flores31@example.com	(992) 555-9145	2026-09-08T04:41:25.187Z	Disqualified			Facebook	Denver		Fail	
+60	Mia Clark	mia.clark78@example.com	(906) 555-5637	2026-09-06T23:36:27.894Z	Abandoned quiz			Instagram	Phoenix			Q6
+67	Owen Anderson	owen.anderson25@example.com	(789) 555-5570	2026-08-10 11:01:00	Lead			Referral	Denver			
+85	Layla Allen	layla.allen53@example.com	(399) 555-3080	2026-09-03T15:09:57.001Z	1st interview showed	Held 1st interview	9/11/2026 6:22	TikTok	Dallas		Pass	
+446	Test Lead	test@test.test	(000) 555-0000	10/5/2026 12:00	Passed quiz		2026-10-06T12:00:00.000Z	Facebook	Phoenix		Pass	
+153	Liam Taylor	liam.taylor47@example.com	(426) 555-4931	9/18/2026 14:29	Abandoned quiz			Instagram	Tampa			Q4
+34	Ezra Green	ezra.green16@example.com	(285) 555-6507	Sep 3, 2026	Abandoned quiz			TikTok	Dallas			Q1
+440	James Smith	james.smith17@example.com	(832) 555-3375	2026-08-13 11:02:00	1st interview booked		8/22/2026 3:20	Instagram	Dallas		Pass	
+182	Zoe Lewis	zoe.lewis74@example.com	(393) 555-3654	2026-08-14 10:29:00	Lead			Facebook	Las Vegas			
+449	Zapier Test	zap@test.test	(000) 555-0000	10/5/2026 12:00	Passed quiz		2026-10-06T12:00:00.000Z	Facebook	Phoenix		Pass	
+181	Luna Young	luna.young23@example.com	(966) 555-1011	2026-08-29 11:52:00	2nd interview booked	Held 1st interview	8/31/2026 20:54	Indeed	Tampa	Tyrell B.	Pass	
+434	Mateo Wilson		(289) 555-8539	2026-08-16T04:47:45.260Z	Lead			TikTok	Phoenix			
+65	Liam Baker	liam.baker31@example.com	(484) 555-2619	Aug 19, 2026	1st interview booked		Aug 25, 2026	Instagram	Denver		Pass	
+263	Leo Martinez	leo.martinez16@example.com	(673) 555-5349	2026-08-23T10:06:39.037Z	1st interview booked		Aug 28, 2026	TikTok	Denver		Pass	
+64	Mia Torres	mia.torres96@example.com	(807) 555-7205	2026-09-25 09:46:00	Disqualified			Referral	Las Vegas		Fail	
+87	Mia Flores	mia.flores88@example.com	(221) 555-7529	2026-09-14 20:10:00	Lead			Facebook	Phoenix			
+413	Stella Wilson	stella.wilson32@example.com	(473) 555-7487	Aug 24, 2026	1st interview booked		2026-08-30 00:22:00	Indeed	Dallas		Pass	
+167	Ivy Clark	ivy.clark78@example.com	(820) 555-8071	9/20/2026 12:26	Lead			Indeed	Tampa			
+255	Zoe Walker	zoe.walker18@example.com	(977) 555-6196	Oct 8, 2026	1st interview booked		2026-10-08T12:00:00.000Z	Instagram	Denver		Pass	
+53	Carter Young	carter.young63@example.com	(550) 555-1845	2026-08-21 09:53:00	Lead			Referral	Phoenix			
+277	Ezra Young	ezra.young72@example.com	(725) 555-2738	8/22/2026 0:28	Abandoned quiz			Referral	Tampa			Q5
+2	Leo Green	leo.green14@example.com	(588) 555-8852	2026-09-28 12:01:00	Lead			TikTok	Dallas			
+32	Sofia Moore	sofia.moore30@example.com	(531) 555-6613	8/15/2026 17:32	Abandoned quiz			Referral	Denver			Q4
+20	Chloe Allen	chloe.allen98@example.com	(202) 555-1328	Sep 27, 2026	Disqualified			Referral	Dallas		Fail	
+442	Leo Moore		(673) 555-5773	10/5/2026 13:39	1st interview booked		Oct 8, 2026	Instagram	Dallas		Pass	
+431	NOAH CLARK	noah.clark28@example.com	(420) 555-2561	Aug 12, 2026	Disqualified			Referral	Dallas		Fail	
+302	Levi Taylor	levi.taylor96@example.com	(511) 555-0914	2026-10-02 10:47:00	2nd interview booked	Held 1st interview	Oct 5, 2026	TikTok	Tampa	Tyrell B.	Pass	
+214	Olivia Ramirez	olivia.ramirez21@example.com	(424) 555-2004	2026-08-28T06:07:29.724Z	Disqualified			Referral	Phoenix		Fail	
+384	Stella Lee	stella.lee49@example.com	(827) 555-7982	2026-09-06 23:04:00	Passed quiz		9/18/2026 18:30	Referral	Las Vegas		Pass	
+359	Aiden Adams	aiden.adams46@example.com	(430) 555-5494	2026-08-22 14:34:00	Lead			Facebook	Dallas			
+234	Julian Moore	julian.moore56@example.com	(507) 555-5003	2026-09-25T04:33:38.736Z	1st interview booked		2026-10-07 11:51:00	Instagram	Denver		Pass	
+324	Chloe King	chloe.king65@example.com	(764) 555-1463	Sep 6, 2026	1st interview showed	Held 1st interview	2026-09-08T20:34:15.232Z	Referral	Denver	Jenna R.	Pass	
+210	Noah Anderson	noah.anderson35@example.com	(370) 555-0773	2026-10-06T23:08:31.341Z	Abandoned quiz			TikTok	Phoenix			Q1
+404	Mia Young	mia.young95@example.com	(962) 555-7792	Oct 3, 2026	Lead			Facebook	Denver			
+418	Lily Flores	lily.flores15@example.com	(660) 555-3108	2026-09-21T17:24:08.284Z	1st interview no-show	No show	2026-09-24 05:54:00	Indeed	Phoenix		Pass	
+325	Nora Smith	nora.smith35@example.com	(223) 555-1447	Aug 13, 2026	Hired	Hired	8/20/2026 22:59	Instagram	Phoenix		Pass	
+264	Lucas Moore	lucas.moore96@example.com	(354) 555-3756	2026-09-20T06:12:21.774Z	Abandoned quiz			Referral	Dallas			Q6
+279	Owen Garcia	owen.garcia47@example.com	(535) 555-8744	10/1/2026 23:59	Abandoned quiz			Indeed	Las Vegas			Q4
+409	Mateo Lee	mateo.lee55@example.com	(809) 555-6915	Aug 31, 2026	Lead			Instagram	Dallas			
+120	Julian Taylor	julian.taylor84@example.com	(349) 555-2526	10/7/2026 1:41	1st interview showed	Held 1st interview	2026-10-08T12:00:00.000Z	TikTok	Denver	Tyrell B.	Pass	
+408	Lucas Davis	lucas.davis63@example.com	(235) 555-9124	9/9/2026 4:35	1st interview booked		9/20/2026 15:34	Referral	Tampa		Pass	
+432	CARTER SCOTT	carter.scott34@example.com	(430) 555-1201	2026-09-05T10:45:16.851Z	1st interview booked		2026-09-15T02:35:19.991Z	TikTok	Denver		Pass	
+45	Luna Smith	luna.smith33@example.com	(535) 555-9549	Oct 2, 2026	Passed quiz		Oct 8, 2026	Instagram	Denver		Pass	
+306	Ellie Wilson	ellie.wilson78@example.com	(342) 555-2090	2026-09-10T21:18:57.021Z	Lead			Indeed	Dallas			
+320	Caleb Lopez	caleb.lopez52@example.com	(942) 555-0108	2026-09-14 08:07:00	Abandoned quiz			Instagram	Dallas			Q6
+135	Ava Scott	ava.scott71@example.com	(715) 555-8263	9/26/2026 3:31	Abandoned quiz			TikTok	Denver			Q1
+13	James Hill	james.hill13@example.com	(510) 555-5188	Oct 5, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-08 12:00:00	Instagram	Tampa		Pass	
+203	Zoe Hernandez	zoe.hernandez39@example.com	(890) 555-1844	2026-09-15T18:38:26.814Z	Lead			Facebook	Denver			
+140	Caleb Smith	caleb.smith68@example.com	(740) 555-2109	Sep 28, 2026	Passed quiz		10/7/2026 19:08	TikTok	Tampa		Pass	
+351	Ethan Reyes	ethan.reyes71@example.com	(920) 555-8112	8/22/2026 7:02	1st interview no-show	No show	2026-08-30T17:57:17.023Z	TikTok	Dallas		Pass	
+101	Isaac King	isaac.king17@example.com	(378) 555-6594	2026-10-06 16:11:00	1st interview showed	Held 1st interview	10/8/2026 12:00	Referral	Tampa	Tyrell B.	Pass	
+12	Noah Hernandez	noah.hernandez16@example.com	(683) 555-3439	Sep 18, 2026	Disqualified			Facebook	Dallas		Fail	
+138	Layla Green	layla.green89@example.com	(355) 555-4415	2026-08-16 06:00:00	Abandoned quiz			Instagram	Phoenix			Q2
+241	Olivia Flores	olivia.flores65@example.com	(599) 555-1240	2026-09-10 05:36:00	Abandoned quiz			TikTok	Las Vegas			Q3
+430	ELLIE WILSON	ellie.wilson78@example.com	(342) 555-2090	2026-09-10T21:18:57.021Z	Lead			Indeed	Dallas			
+439	ISABELLA TAYLOR	isabella.taylor97@example.com	(609) 555-1278	9/30/2026 5:22	Lead			Referral	Tampa			
+294	Stella Lopez	stella.lopez83@example.com	(970) 555-0291	8/27/2026 5:57	2nd interview booked	Held 1st interview	2026-08-30T10:10:08.873Z	Facebook	Denver	Carlos M.	Pass	
+152	Layla Brown	layla.brown31@example.com	(268) 555-6829	Sep 7, 2026	Lead			Indeed	Phoenix			
+412	Mateo Wilson	mateo.wilson64@example.com	(289) 555-8539	2026-08-16T04:47:45.260Z	Lead			TikTok	Phoenix			
+378	Ezra Rivera	ezra.rivera44@example.com	(657) 555-4468	Aug 26, 2026	Abandoned quiz			Facebook	Las Vegas			Q3
+290	Ava Young	ava.young50@example.com	(941) 555-3248	2026-08-17 23:51:00	1st interview booked		Aug 28, 2026	Facebook	Denver		Pass	
+137	Hazel Young	hazel.young43@example.com	(622) 555-3051	2026-10-08 11:20:00	Lead			Indeed	Phoenix			
+168	Hudson Clark	hudson.clark72@example.com	(214) 555-3653	9/19/2026 5:05	Lead			Indeed	Phoenix			
+399	Levi Adams	levi.adams79@example.com	(978) 555-5895	8/19/2026 9:52	Lead			Facebook	Phoenix			
+166	Julian Garcia	julian.garcia20@example.com	(396) 555-6673	Aug 29, 2026	1st interview booked		2026-09-01T09:02:50.831Z	Referral	Denver		Pass	
+231	Camila Allen	camila.allen18@example.com	(495) 555-8898	2026-09-05 12:06:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-10 20:24:00	Indeed	Las Vegas		Pass	
+330	Elijah Scott	elijah.scott83@example.com	(221) 555-9010	2026-08-13 05:07:00	Abandoned quiz			Instagram	Las Vegas			Q3
+301	Hudson Green	hudson.green61@example.com	(644) 555-4564	Sep 15, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-17 08:48:00	Referral	Denver		Pass	
+15	Luna Taylor	luna.taylor72@example.com	(803) 555-4319	2026-09-17 14:46:00	Abandoned quiz			Referral	Las Vegas			Q2
+59	Isaac Scott	isaac.scott95@example.com	(766) 555-7579	2026-08-27 13:40:00	Disqualified			TikTok	Dallas		Fail	
+332	Hazel Rivera	hazel.rivera27@example.com	(322) 555-6116	2026-08-23 01:12:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-03T19:35:04.315Z	Referral	Phoenix	Carlos M.	Pass	
+236	Luna Baker	luna.baker60@example.com	(293) 555-5032	2026-09-09T07:13:51.074Z	Abandoned quiz			TikTok	Tampa			Q5
+66	Lucas Clark	lucas.clark10@example.com	(262) 555-0509	2026-08-29T00:29:43.701Z	Disqualified			TikTok	Tampa		Fail	
+56	Layla Hernandez	layla.hernandez17@example.com	(715) 555-3246	2026-10-03 03:18:00	Lead			Instagram	Denver			
+146	Camila Young	camila.young15@example.com	(542) 555-7458	9/16/2026 9:28	Abandoned quiz			Instagram	Phoenix			Q1
+423	Zoe Hernandez	zoe.hernandez39@example.com	(890) 555-1844	2026-09-15T18:38:26.814Z	Lead			Facebook	Denver			
+317	Ezra Wilson	ezra.wilson88@example.com	(684) 555-0242	2026-10-07 12:22:00	Lead			Facebook	Denver			
+171	Elijah Nguyen	elijah.nguyen39@example.com	(929) 555-1669	2026-10-06T03:47:41.093Z	Disqualified			Instagram	Phoenix		Fail	
+5	Mateo Adams	mateo.adams21@example.com	(397) 555-7472	2026-08-10 07:01:00	Abandoned quiz			TikTok	Phoenix			Q6
+238	Ivy Torres	ivy.torres67@example.com	(777) 555-9669	2026-09-03T16:46:20.901Z	1st interview showed	Held 1st interview	9/16/2026 15:29	TikTok	Phoenix	Tyrell B.	Pass	
+43	Hudson Ramirez	hudson.ramirez91@example.com	(883) 555-7423	8/11/2026 13:35	Lead			Instagram	Dallas			
+174	Layla Nguyen	layla.nguyen93@example.com	(437) 555-7819	8/17/2026 12:32	2nd interview booked	Held 1st interview	Aug 26, 2026	Facebook	Tampa	Jenna R.	Pass	
+376	Daniel Hernandez	daniel.hernandez67@example.com	(407) 555-4594	2026-08-18 13:12:00	2nd interview showed	Held 2nd interview - undetermined outcome	Aug 29, 2026	Indeed	Denver	Carlos M.	Pass	
+63	Hudson Young	hudson.young38@example.com	(835) 555-2806	8/10/2026 0:25	Disqualified			Indeed	Dallas		Fail	
+379	Lily Hill	lily.hill39@example.com	(761) 555-8241	2026-08-30T04:31:51.623Z	2nd interview booked	Held 1st interview	Sep 9, 2026	TikTok	Dallas		Pass	
+217	Violet Clark	violet.clark68@example.com	(685) 555-4731	Sep 7, 2026	Passed quiz		9/11/2026 6:16	Referral	Phoenix		Pass	
+253	Chloe Brown	chloe.brown43@example.com	(601) 555-6574	9/17/2026 9:17	Disqualified			TikTok	Dallas		Fail	
+177	Levi Flores	levi.flores75@example.com	(591) 555-6291	Sep 8, 2026	Lead			Indeed	Dallas			
+349	Daniel Nguyen	daniel.nguyen10@example.com	(943) 555-6651	2026-09-30 03:29:00	Abandoned quiz			Facebook	Dallas			Q5
+244	Caleb Moore	caleb.moore98@example.com	(431) 555-9839	Aug 16, 2026	1st interview showed	Held 1st interview	2026-08-23 05:01:00	Instagram	Phoenix	Tyrell B.	Pass	
+232	Julian Taylor	julian.taylor10@example.com	(602) 555-1355	8/25/2026 12:12	Abandoned quiz			Referral	Denver			Q2
+14	Aurora Ramirez	aurora.ramirez87@example.com	(714) 555-9752	Aug 10, 2026	Abandoned quiz			TikTok	Las Vegas			Q1
+437	Lucas Scott		(293) 555-0490	9/15/2026 19:56	Lead			TikTok	Dallas			
+394	Aria Garcia	aria.garcia91@example.com	(859) 555-4500	10/4/2026 9:45	Disqualified			Instagram	Phoenix		Fail	
+292	Violet Rivera	violet.rivera42@example.com	(382) 555-2515	2026-08-19 19:02:00	1st interview showed	Held 1st interview	2026-08-29 11:23:00	TikTok	Phoenix	Jenna R.	Pass	
+81	Isabella Rivera	isabella.rivera73@example.com	(532) 555-1629	Aug 20, 2026	Disqualified			Indeed	Dallas		Fail	
+352	Isabella Young	isabella.young43@example.com	(587) 555-4762	2026-09-09T02:43:56.398Z	Abandoned quiz			TikTok	Las Vegas			Q6
+222	Aria Hernandez	aria.hernandez41@example.com	(696) 555-6495	2026-09-07T09:47:43.385Z	1st interview no-show	No show	2026-09-19T13:06:35.444Z	TikTok	Las Vegas		Pass	
+321	Luna Green	luna.green33@example.com	(792) 555-6621	Aug 29, 2026	Disqualified			Facebook	Las Vegas		Fail	
+262	Liam Green	liam.green99@example.com	(354) 555-1153	2026-08-13 11:49:00	Lead			Facebook	Denver			
+428	MATEO LEE	mateo.lee55@example.com	(809) 555-6915	Aug 31, 2026	Lead			Instagram	Dallas			
+1	Isabella Flores	isabella.flores30@example.com	(805) 555-9163	Aug 17, 2026	Passed quiz		Aug 20, 2026	Referral	Denver		Pass	
+131	Ellie Scott	ellie.scott91@example.com	(358) 555-2779	Oct 7, 2026	Passed quiz		Oct 8, 2026	Indeed	Dallas		Pass	
+367	Camila Lewis	camila.lewis17@example.com	(289) 555-8269	2026-10-07 13:04:00	1st interview booked		10/8/2026 12:00	Referral	Tampa		Pass	
+372	Luna Ramirez	luna.ramirez88@example.com	(956) 555-4409	2026-08-10T13:44:44.886Z	Abandoned quiz			Indeed	Tampa			Q1
+193	Ava Taylor	ava.taylor91@example.com	(578) 555-3352	10/2/2026 0:16	1st interview no-show	No show	Oct 8, 2026	Referral	Dallas		Pass	
+57	Elijah Davis	elijah.davis23@example.com	(838) 555-0743	2026-08-17 23:05:00	2nd interview showed	Held 2nd interview - undetermined outcome	Aug 29, 2026	Indeed	Phoenix		Pass	
+62	Mateo Flores	mateo.flores89@example.com	(542) 555-8379	2026-10-08 05:32:00	Passed quiz		10/8/2026 12:00	Facebook	Las Vegas		Pass	
+6	Lily Anderson	lily.anderson69@example.com	(840) 555-2024	9/17/2026 4:17	2nd interview booked	Held 1st interview	Sep 26, 2026	Instagram	Phoenix	Tyrell B.	Pass	
+78	Levi Davis	levi.davis48@example.com	(482) 555-5701	2026-09-26 13:07:00	Lead			Referral	Phoenix			
+200	Chloe Hill	chloe.hill87@example.com	(748) 555-1346	8/30/2026 7:03	1st interview showed	Held 1st interview	2026-09-09T04:42:45.564Z	Indeed	Denver	Tyrell B.	Pass	
+40	Leo Scott	leo.scott98@example.com	(496) 555-3268	Sep 11, 2026	Abandoned quiz			Instagram	Tampa			Q6
+438	AIDEN HILL	aiden.hill40@example.com	(447) 555-9943	Aug 21, 2026	Lead			TikTok	Las Vegas			
+96	Camila Ramirez	camila.ramirez54@example.com	(251) 555-9140	2026-09-14T11:27:07.421Z	Passed quiz		9/19/2026 3:12	TikTok	Tampa		Pass	
+91	Wyatt Brown	wyatt.brown58@example.com	(305) 555-8939	2026-09-29T01:47:28.566Z	Hired	Hired	2026-10-08T12:00:00.000Z	Facebook	Tampa	Carlos M.	Pass	
+183	Carter Reyes	carter.reyes78@example.com	(683) 555-6657	2026-09-26T17:46:36.487Z	Abandoned quiz			Instagram	Tampa			Q4
+41	Sofia Rivera	sofia.rivera26@example.com	(851) 555-4595	9/10/2026 7:28	Disqualified			Instagram	Phoenix		Fail	
+237	Ivy Torres	ivy.torres95@example.com	(552) 555-6270	Sep 26, 2026	Disqualified			Referral	Tampa		Fail	
+307	Chloe Adams	chloe.adams76@example.com	(829) 555-6047	2026-09-02 11:38:00	Lead			TikTok	Dallas			
+136	Carter Green	carter.green62@example.com	(348) 555-5341	2026-09-01T17:01:16.870Z	Passed quiz		2026-09-05T14:34:24.461Z	Indeed	Denver		Pass	
+260	Noah Johnson	noah.johnson25@example.com	(487) 555-6440	Sep 26, 2026	Lead			TikTok	Tampa			
+261	Ivy Hill	ivy.hill48@example.com	(372) 555-9180	9/17/2026 13:57	2nd interview booked	Held 1st interview	9/20/2026 9:39	Referral	Denver		Pass	
+299	Isaac King	isaac.king94@example.com	(430) 555-2504	8/31/2026 2:28	Hired	Hired	2026-09-11T04:05:22.135Z	Instagram	Denver		Pass	
+139	James Smith	james.smith17@example.com	(832) 555-3375	2026-08-13 11:02:00	1st interview booked		8/22/2026 3:20	Instagram	Dallas		Pass	
+256	Caleb Baker	caleb.baker84@example.com	(426) 555-3548	Aug 24, 2026	Abandoned quiz			Facebook	Dallas			Q1
+388	Wyatt Adams	wyatt.adams84@example.com	(454) 555-4698	9/30/2026 12:50	Disqualified			Facebook	Denver		Fail	
+119	Mateo Nguyen	mateo.nguyen74@example.com	(856) 555-5530	Sep 25, 2026	1st interview booked		10/6/2026 8:57	Facebook	Denver		Pass	
+362	Hudson Clark	hudson.clark31@example.com	(413) 555-0499	2026-09-12T07:42:15.495Z	Passed quiz		Sep 13, 2026	Facebook	Denver		Pass	
+297	Olivia Davis	olivia.davis51@example.com	(913) 555-3540	Sep 5, 2026	Lead			Indeed	Tampa			
+426	EZRA WALKER	ezra.walker67@example.com	(286) 555-3464	2026-10-04T15:36:25.914Z	1st interview booked		2026-10-08T12:00:00.000Z	Referral	Tampa		Pass	
+122	Isabella Davis	isabella.davis30@example.com	(595) 555-7624	9/15/2026 6:03	Lead			Facebook	Las Vegas			
+273	Elijah Rivera	elijah.rivera89@example.com	(975) 555-5970	8/28/2026 23:16	2nd interview showed	Held 2nd interview - undetermined outcome	Sep 7, 2026	TikTok	Tampa		Pass	
+286	Olivia Scott	olivia.scott27@example.com	(382) 555-5287	9/11/2026 23:48	Passed quiz		2026-09-16 16:06:00	Indeed	Denver		Pass	
+272	Sofia Davis	sofia.davis77@example.com	(242) 555-5476	Sep 30, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-08 12:00:00	Instagram	Denver	Carlos M.	Pass	
+16	Mateo Taylor	mateo.taylor89@example.com	(594) 555-0181	9/25/2026 10:53	Disqualified			Referral	Denver		Fail	
+322	Noah Clark	noah.clark28@example.com	(420) 555-2561	Aug 12, 2026	Disqualified			Referral	Dallas		Fail	
+70	Owen Hernandez	owen.hernandez74@example.com	(990) 555-1860	2026-09-17T18:01:38.774Z	Abandoned quiz			Facebook	Tampa			Q2
+370	Lucas Smith	lucas.smith71@example.com	(680) 555-7288	2026-09-13T10:59:05.818Z	1st interview showed	Held 1st interview	9/14/2026 12:40	Referral	Las Vegas	Jenna R.	Pass	
+435	IVY TORRES		(552) 555-6270	Sep 26, 2026	Disqualified			Referral	Tampa		Fail	
+433	NOAH ANDERSON	noah.anderson35@example.com	(370) 555-0773	2026-10-06T23:08:31.341Z	Abandoned quiz			TikTok	Phoenix			Q1
+123	Ezra Torres	ezra.torres91@example.com	(574) 555-3312	2026-08-11 02:04:00	Abandoned quiz			Indeed	Las Vegas			Q1
+401	Lily Smith	lily.smith55@example.com	(876) 555-2547	8/12/2026 1:02	Abandoned quiz			Indeed	Tampa			Q2
+271	Lucas Lopez	lucas.lopez45@example.com	(300) 555-6056	2026-09-06 09:02:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-10T08:19:19.227Z	Referral	Las Vegas		Pass	
+250	Owen Clark	owen.clark14@example.com	(601) 555-9019	Oct 3, 2026	Abandoned quiz			Indeed	Las Vegas			Q4
+224	Carter Johnson	carter.johnson21@example.com	(606) 555-8592	2026-08-26 19:29:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-08-30 13:03:00	Instagram	Las Vegas		Pass	
+17	Aiden Clark	aiden.clark72@example.com	(983) 555-4997	Aug 13, 2026	Hired	Hired	2026-08-17T05:39:01.975Z	Referral	Denver	Carlos M.	Pass	
+170	Zoe Hernandez	zoe.hernandez12@example.com	(624) 555-4362	2026-09-24 05:10:00	Abandoned quiz			Referral	Las Vegas			Q3
+199	Hazel Davis	hazel.davis43@example.com	(269) 555-3767	2026-09-03T05:35:04.414Z	1st interview showed	Held 1st interview	2026-09-14 22:37:00	Facebook	Phoenix	Tyrell B.	Pass	
+315	Leo Hernandez	leo.hernandez81@example.com	(684) 555-1656	8/31/2026 0:08	1st interview booked		9/10/2026 8:58	Indeed	Las Vegas		Pass	
+75	Mateo Lewis	mateo.lewis22@example.com	(393) 555-2322	9/1/2026 15:41	Lead			TikTok	Dallas			
+311	Wyatt Davis	wyatt.davis98@example.com	(426) 555-1196	2026-09-20T23:40:18.400Z	Lead			Indeed	Tampa			
+185	Isaac Hernandez	isaac.hernandez32@example.com	(767) 555-3660	2026-09-03 19:22:00	Abandoned quiz			TikTok	Phoenix			Q2
+23	Daniel Wilson	daniel.wilson70@example.com	(449) 555-7828	2026-08-15 13:55:00	1st interview showed	Held 1st interview	Aug 23, 2026	TikTok	Tampa		Pass	
+180	James Rivera	james.rivera62@example.com	(257) 555-8955	Aug 18, 2026	1st interview booked		8/29/2026 10:16	Instagram	Phoenix		Pass	
+31	Sofia Ramirez	sofia.ramirez88@example.com	(953) 555-1473	Sep 9, 2026	Hired	Hired	2026-09-21T11:02:30.306Z	Referral	Phoenix	Tyrell B.	Pass	
+268	Sofia Young	sofia.young65@example.com	(802) 555-0599	9/16/2026 9:30	Abandoned quiz			TikTok	Dallas			Q1
+133	Jayden Nguyen	jayden.nguyen75@example.com	(863) 555-1168	2026-08-27T17:43:28.042Z	2nd interview showed	Held 2nd interview - undetermined outcome	9/6/2026 2:25	Instagram	Dallas		Pass	
+10	Violet Wilson	violet.wilson66@example.com	(413) 555-8692	2026-09-20 10:27:00	Passed quiz		2026-10-03 06:01:00	TikTok	Tampa		Pass	
+443	ISABELLA ADAMS		(222) 555-7671	Aug 10, 2026	2nd interview booked	Held 1st interview	Aug 15, 2026	Facebook	Denver		Pass	
+350	Hudson Wilson	hudson.wilson78@example.com	(804) 555-3582	2026-09-02 21:15:00	Lead			Instagram	Dallas			
+405	Jayden Adams	jayden.adams31@example.com	(482) 555-3716	Sep 7, 2026	Abandoned quiz			Facebook	Tampa			Q2
+336	Layla Reyes	layla.reyes80@example.com	(734) 555-8353	2026-09-09T01:19:41.155Z	Disqualified			TikTok	Tampa		Fail	
+97	Aiden Hill	aiden.hill45@example.com	(496) 555-5992	2026-09-19 15:27:00	1st interview no-show	No show	9/25/2026 10:47	Instagram	Denver		Pass	
+125	Caleb Taylor	caleb.taylor69@example.com	(203) 555-3922	Sep 12, 2026	Lead			Referral	Las Vegas			
+47	Lucas Young	lucas.young33@example.com	(483) 555-3125	9/28/2026 11:09	Disqualified			Referral	Tampa		Fail	
+147	Emma Ramirez	emma.ramirez16@example.com	(281) 555-2698	8/25/2026 4:24	1st interview no-show	No show	2026-08-28T03:27:03.742Z	Instagram	Phoenix		Pass	
+415	Julian Martinez	julian.martinez97@example.com	(849) 555-8362	9/30/2026 2:26	Abandoned quiz			TikTok	Denver			Q5
+127	Aiden Davis	aiden.davis72@example.com	(805) 555-6148	2026-08-21T14:25:58.217Z	1st interview no-show	No show	2026-09-03 00:39:00	Indeed	Las Vegas		Pass	
+141	Aurora Lopez	aurora.lopez97@example.com	(758) 555-3666	2026-09-17 23:46:00	1st interview no-show	No show	9/22/2026 17:11	Indeed	Las Vegas		Pass	
+335	Zoe Flores	zoe.flores62@example.com	(726) 555-3217	Aug 14, 2026	Disqualified			TikTok	Denver		Fail	
+218	Ava Davis	ava.davis90@example.com	(615) 555-6893	2026-10-08 10:42:00	Lead			Referral	Tampa			
+291	Noah Reyes	noah.reyes19@example.com	(559) 555-2359	9/16/2026 1:34	2nd interview booked	Held 1st interview	2026-09-24T20:23:35.787Z	Facebook	Denver		Pass	
+36	Ivy Hill	ivy.hill34@example.com	(503) 555-9841	2026-08-18 07:26:00	1st interview booked		8/22/2026 11:02	Referral	Phoenix		Pass	
+340	Ethan Brown	ethan.brown27@example.com	(218) 555-3930	2026-08-30 02:34:00	Abandoned quiz			TikTok	Dallas			Q4
+313	Owen Johnson	owen.johnson54@example.com	(485) 555-6045	2026-09-09 17:35:00	Abandoned quiz			Referral	Denver			Q1
+239	Leo Lee	leo.lee98@example.com	(733) 555-5852	Sep 20, 2026	Passed quiz		2026-09-24 01:00:00	Indeed	Tampa		Pass	
+334	Mateo Green	mateo.green24@example.com	(938) 555-6086	Aug 12, 2026	1st interview booked		2026-08-16T01:31:41.657Z	Referral	Dallas		Pass	
+366	Layla Young	layla.young24@example.com	(742) 555-4544	Oct 4, 2026	Disqualified			TikTok	Dallas		Fail	
+192	Elijah Wilson	elijah.wilson75@example.com	(453) 555-3512	9/8/2026 17:30	1st interview no-show	No show	9/21/2026 8:22	Instagram	Tampa		Pass	
+447	Sam Test	sam+test@example.com	(000) 555-0000	10/5/2026 12:00	Passed quiz		2026-10-06T12:00:00.000Z	Facebook	Phoenix		Pass	
+116	Aiden Smith	aiden.smith23@example.com	(466) 555-3678	9/5/2026 14:41	1st interview no-show	No show	Sep 9, 2026	TikTok	Phoenix		Pass	
+8	Hudson Garcia	hudson.garcia26@example.com	(969) 555-7004	2026-09-13T07:21:17.807Z	Lead			Facebook	Las Vegas			
+159	Mateo Reyes	mateo.reyes88@example.com	(642) 555-6432	2026-09-15T08:48:01.959Z	1st interview showed	Held 1st interview	2026-09-16 16:11:00	Facebook	Dallas		Pass	
+44	Lily Lopez	lily.lopez78@example.com	(290) 555-1045	8/21/2026 11:01	Lead			Referral	Dallas			
+72	Nora Lee	nora.lee76@example.com	(202) 555-8760	2026-08-23 03:39:00	Lead			Referral	Las Vegas			
+358	Ivy Smith	ivy.smith39@example.com	(886) 555-2612	9/23/2026 7:17	Passed quiz		9/27/2026 5:14	Referral	Dallas		Pass	
+30	Chloe Clark	chloe.clark45@example.com	(943) 555-9955	9/27/2026 20:00	Disqualified			Referral	Tampa		Fail	
+377	Camila Moore	camila.moore24@example.com	(982) 555-9176	8/14/2026 4:08	Disqualified			TikTok	Denver		Fail	
+187	Julian Anderson	julian.anderson65@example.com	(241) 555-8850	2026-10-01 04:38:00	Lead			TikTok	Las Vegas			
+419	Hudson Rivera	hudson.rivera66@example.com	(813) 555-2756	2026-08-28T16:53:41.557Z	Lead			Facebook	Tampa			
+281	Stella Green	stella.green93@example.com	(344) 555-7095	Aug 18, 2026	1st interview no-show	No show	8/27/2026 2:36	Indeed	Phoenix		Pass	
+243	Leo Anderson	leo.anderson47@example.com	(868) 555-8652	8/10/2026 13:00	Lead			TikTok	Las Vegas			
+341	Ivy Smith	ivy.smith34@example.com	(653) 555-2866	Aug 25, 2026	Lead			Facebook	Denver			
+274	Aiden Adams	aiden.adams59@example.com	(339) 555-3835	2026-09-28T11:54:57.314Z	1st interview booked		2026-10-08 12:00:00	Indeed	Dallas		Pass	
+289	Julian Garcia	julian.garcia50@example.com	(944) 555-4536	2026-09-14T01:06:24.449Z	Disqualified			Referral	Tampa		Fail	
+365	Luna Smith	luna.smith41@example.com	(878) 555-3595	Oct 5, 2026	Lead			Instagram	Dallas			
+49	Caleb Brown	caleb.brown75@example.com	(494) 555-9799	Sep 21, 2026	Lead			TikTok	Tampa			
+353	Emma Flores	emma.flores23@example.com	(937) 555-8124	2026-08-10 06:20:00	Abandoned quiz			Facebook	Phoenix			Q6
+162	Hudson Young	hudson.young83@example.com	(696) 555-3865	10/1/2026 21:13	Lead			Facebook	Dallas			
+387	Lucas Anderson	lucas.anderson38@example.com	(218) 555-7485	2026-09-17 01:29:00	1st interview showed	Held 1st interview	2026-09-23T14:32:14.609Z	TikTok	Denver	Tyrell B.	Pass	
+188	Olivia Ramirez	olivia.ramirez74@example.com	(600) 555-6837	Sep 19, 2026	Passed quiz		9/26/2026 21:58	Instagram	Tampa		Pass	
+309	Mateo Allen	mateo.allen74@example.com	(869) 555-6590	2026-09-18T10:20:42.160Z	Lead			Instagram	Dallas			
+303	Aurora Garcia	aurora.garcia75@example.com	(532) 555-6056	9/2/2026 11:02	2nd interview showed	Held 2nd interview - undetermined outcome	Sep 4, 2026	Indeed	Dallas	Tyrell B.	Pass	
+354	Hudson Davis	hudson.davis82@example.com	(979) 555-4938	Aug 17, 2026	Lead			Indeed	Tampa			
+416	Zoe Smith	zoe.smith47@example.com	(769) 555-8568	2026-10-08T05:08:52.937Z	Disqualified			Referral	Tampa		Fail	
+48	Caleb Baker	caleb.baker58@example.com	(883) 555-5733	2026-10-07 20:44:00	Passed quiz		10/8/2026 12:00	Instagram	Dallas		Pass	
+380	Wyatt Moore	wyatt.moore48@example.com	(760) 555-1102	2026-10-04 01:24:00	Lead			TikTok	Denver			
+108	Violet Wilson	violet.wilson22@example.com	(958) 555-1821	2026-09-01 14:04:00	Hired	Hired	9/3/2026 21:56	TikTok	Las Vegas	Carlos M.	Pass	
+343	Leo Martinez	leo.martinez13@example.com	(202) 555-6208	8/21/2026 17:29	Disqualified			Facebook	Dallas		Fail	
+328	Daniel Rivera	daniel.rivera55@example.com	(560) 555-7884	8/12/2026 12:45	Abandoned quiz			Instagram	Las Vegas			Q2
+310	Olivia Reyes	olivia.reyes70@example.com	(571) 555-9446	2026-08-10 23:08:00	Abandoned quiz			Indeed	Las Vegas			Q4
+73	Layla Adams	layla.adams17@example.com	(553) 555-3468	2026-09-27 16:03:00	Passed quiz		2026-10-03T11:16:12.717Z	Instagram	Dallas		Pass	
+143	Lucas Lee	lucas.lee67@example.com	(989) 555-5598	9/15/2026 0:43	Lead			Indeed	Phoenix			
+221	Ezra Walker	ezra.walker67@example.com	(286) 555-3464	2026-10-04T15:36:25.914Z	1st interview booked		2026-10-08T12:00:00.000Z	Referral	Tampa		Pass	
+98	Jayden Walker	jayden.walker62@example.com	(240) 555-5827	2026-09-20 00:06:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-02 14:36:00	Instagram	Phoenix		Pass	
+360	Violet Rivera	violet.rivera15@example.com	(280) 555-6907	8/17/2026 15:51	Lead			Facebook	Las Vegas			
+382	Ellie Walker	ellie.walker90@example.com	(607) 555-2626	2026-09-01T02:56:41.865Z	Passed quiz		2026-09-02 19:12:00	Referral	Las Vegas		Pass	
+344	Carter Johnson	carter.johnson87@example.com	(426) 555-6914	Oct 7, 2026	Abandoned quiz			Referral	Denver			Q3
+246	Ezra Hernandez	ezra.hernandez83@example.com	(664) 555-4473	2026-09-20 14:39:00	Disqualified			TikTok	Phoenix		Fail	
+375	Levi Martinez	levi.martinez84@example.com	(249) 555-2462	Sep 12, 2026	Abandoned quiz			Referral	Dallas			Q5
+247	Violet Davis	violet.davis90@example.com	(261) 555-7497	9/12/2026 6:24	1st interview no-show	No show	2026-09-18T05:50:41.995Z	Referral	Denver		Pass	
+223	Noah King	noah.king67@example.com	(671) 555-0801	2026-09-07 15:53:00	Disqualified			TikTok	Las Vegas		Fail	
+403	Levi Davis	levi.davis11@example.com	(470) 555-0084	2026-10-04 19:09:00	Abandoned quiz			Facebook	Denver			Q4
+249	Chloe Scott	chloe.scott16@example.com	(741) 555-0075	2026-08-29T10:15:48.237Z	Lead			Indeed	Dallas			
+74	Leo Wilson	leo.wilson27@example.com	(963) 555-5271	2026-08-26T08:01:56.967Z	Disqualified			Indeed	Dallas		Fail	
+106	Luna Green	luna.green44@example.com	(357) 555-5210	2026-09-11 13:40:00	1st interview booked		9/14/2026 3:35	Instagram	Dallas		Pass	
+76	Leo Adams	leo.adams77@example.com	(496) 555-8587	Sep 23, 2026	1st interview booked		Sep 28, 2026	Indeed	Phoenix		Pass	
+356	Leo Clark	leo.clark18@example.com	(475) 555-3361	Sep 11, 2026	Passed quiz		2026-09-13T12:10:58.691Z	Facebook	Las Vegas		Pass	
+276	Layla Davis	layla.davis12@example.com	(795) 555-9433	2026-09-27T23:33:36.806Z	1st interview booked		Oct 2, 2026	TikTok	Phoenix		Pass	
+196	Aiden Baker	aiden.baker85@example.com	(348) 555-3761	9/15/2026 11:02	Passed quiz		Sep 16, 2026	Indeed	Phoenix		Pass	
+24	Caleb Garcia	caleb.garcia54@example.com	(997) 555-1526	Sep 15, 2026	Abandoned quiz			Indeed	Phoenix			Q6
+339	Olivia Young	olivia.young10@example.com	(256) 555-0838	9/21/2026 21:17	1st interview no-show	No show	9/27/2026 6:47	Indeed	Las Vegas		Pass	
+374	Liam Hernandez	liam.hernandez40@example.com	(264) 555-1923	2026-09-23T16:42:30.068Z	Disqualified			TikTok	Phoenix		Fail	
+184	Zoe Moore	zoe.moore95@example.com	(824) 555-0225	8/19/2026 5:31	Abandoned quiz			Instagram	Phoenix			Q4
+71	Ezra Lopez	ezra.lopez29@example.com	(378) 555-1730	8/19/2026 15:53	Lead			Instagram	Phoenix			
+58	Hudson Baker	hudson.baker42@example.com	(269) 555-1053	8/22/2026 22:33	Disqualified			TikTok	Dallas		Fail	
+151	Chloe Smith	chloe.smith68@example.com	(241) 555-4879	2026-10-05 23:26:00	Disqualified			Indeed	Dallas		Fail	
+51	Levi Davis	levi.davis53@example.com	(912) 555-5959	Sep 30, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-04 21:01:00	Facebook	Las Vegas		Pass	
+132	Caleb Lewis	caleb.lewis53@example.com	(544) 555-5640	2026-08-10T15:43:18.017Z	1st interview showed	Held 1st interview	2026-08-13 06:46:00	Indeed	Denver	Tyrell B.	Pass	
+355	Layla Moore	layla.moore39@example.com	(676) 555-4361	9/17/2026 8:41	Abandoned quiz			Facebook	Denver			Q3
+283	Lily Reyes	lily.reyes28@example.com	(240) 555-0177	2026-10-05T11:35:10.052Z	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-08T12:00:00.000Z	Indeed	Denver		Pass	
+293	Daniel Garcia	daniel.garcia46@example.com	(280) 555-4504	2026-10-06 00:26:00	1st interview no-show	No show	2026-10-08T12:00:00.000Z	TikTok	Denver		Pass	
+212	Nora Johnson	nora.johnson69@example.com	(586) 555-1735	Sep 28, 2026	1st interview booked		2026-10-08 12:00:00	Instagram	Dallas		Pass	
+95	Noah Lopez	noah.lopez57@example.com	(774) 555-1442	8/26/2026 11:03	Hired	Hired	2026-09-01T03:38:09.505Z	Facebook	Las Vegas		Pass	
+270	Hazel Martinez	hazel.martinez55@example.com	(852) 555-3458	Aug 17, 2026	1st interview booked		Aug 20, 2026	Instagram	Phoenix		Pass	
+407	Carter Clark	carter.clark17@example.com	(866) 555-4222	2026-08-10 14:14:00	Passed quiz		Aug 15, 2026	Referral	Phoenix		Pass	
+160	Emma Reyes	emma.reyes19@example.com	(450) 555-4293	2026-08-24T10:22:05.020Z	Lead			TikTok	Las Vegas			
+121	Emma Reyes	emma.reyes38@example.com	(625) 555-6656	2026-09-24T09:59:05.992Z	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-01T02:26:16.212Z	Facebook	Phoenix	Carlos M.	Pass	
+346	Owen Reyes	owen.reyes49@example.com	(950) 555-3907	Sep 25, 2026	Lead			Instagram	Denver			
+84	Mateo Green	mateo.green71@example.com	(478) 555-9230	Sep 7, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	Sep 11, 2026	Indeed	Phoenix		Pass	
+128	Chloe Torres	chloe.torres26@example.com	(563) 555-9072	2026-08-31T20:24:16.281Z	Lead			Instagram	Dallas			
+150	Ivy Adams	ivy.adams25@example.com	(686) 555-3836	Sep 20, 2026	1st interview showed	Held 1st interview	2026-09-30 01:34:00	Indeed	Tampa		Pass	
+248	Isabella Hill	isabella.hill72@example.com	(646) 555-9565	2026-09-23T12:36:16.855Z	Hired	Hired	2026-09-26 22:08:00	Indeed	Tampa		Pass	
+191	Mia Adams	mia.adams72@example.com	(343) 555-0825	2026-09-04T21:00:22.312Z	Disqualified			TikTok	Tampa		Fail	
+427	LEO LEE		(733) 555-5852	Sep 20, 2026	Passed quiz		2026-09-24 01:00:00	Indeed	Tampa		Pass	
+130	Daniel Scott	daniel.scott56@example.com	(370) 555-8605	2026-09-05 18:06:00	Passed quiz		Sep 9, 2026	Facebook	Tampa		Pass	
+219	Layla Clark	layla.clark44@example.com	(725) 555-0411	Aug 18, 2026	Disqualified			Referral	Tampa		Fail	
+201	Levi Reyes	levi.reyes63@example.com	(436) 555-5507	Aug 10, 2026	Abandoned quiz			Instagram	Las Vegas			Q1
+259	Stella Garcia	stella.garcia74@example.com	(476) 555-4641	2026-09-12 23:18:00	2nd interview booked	Held 1st interview	9/19/2026 20:57	Referral	Tampa		Pass	
+178	Luna Davis	luna.davis34@example.com	(332) 555-6255	Oct 2, 2026	Abandoned quiz			Referral	Denver			Q5
+337	Layla Lee	layla.lee24@example.com	(691) 555-8392	2026-09-25 23:17:00	Abandoned quiz			Facebook	Tampa			Q6
+319	Mateo Davis	mateo.davis77@example.com	(802) 555-3236	2026-09-25T17:31:35.631Z	Abandoned quiz			Referral	Tampa			Q5
+229	Isaac Torres	isaac.torres59@example.com	(602) 555-7664	2026-08-14T13:58:48.122Z	Passed quiz		Aug 20, 2026	Instagram	Dallas		Pass	
+242	Ezra Taylor	ezra.taylor61@example.com	(574) 555-4331	2026-09-26 06:00:00	Disqualified			Indeed	Dallas		Fail	
+421	Mateo Flores		(542) 555-8379	2026-10-08 05:32:00	Passed quiz		10/8/2026 12:00	Facebook	Las Vegas		Pass	
+228	Stella Lee	stella.lee64@example.com	(384) 555-5114	2026-08-15 19:27:00	1st interview showed	Held 1st interview	8/27/2026 3:13	Indeed	Tampa	Carlos M.	Pass	
+369	Luna Moore	luna.moore63@example.com	(569) 555-5960	2026-09-24 11:04:00	Abandoned quiz			TikTok	Dallas			Q6
+35	Caleb Allen	caleb.allen18@example.com	(293) 555-8738	Sep 19, 2026	Abandoned quiz			Facebook	Dallas			Q3
+287	Aiden Davis	aiden.davis45@example.com	(717) 555-3593	9/4/2026 20:13	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-06 14:45:00	Referral	Las Vegas	Carlos M.	Pass	
+33	Isabella Hill	isabella.hill37@example.com	(583) 555-0247	2026-09-17 23:18:00	Lead			Instagram	Denver			
+22	Wyatt Wilson	wyatt.wilson39@example.com	(548) 555-6491	8/25/2026 19:09	2nd interview booked	Held 1st interview	Aug 26, 2026	Facebook	Phoenix	Tyrell B.	Pass	
+441	Caleb Smith	caleb.smith68@example.com	(740) 555-2109	Sep 28, 2026	Passed quiz		10/7/2026 19:08	TikTok	Tampa		Pass	
+298	Emma Clark	emma.clark68@example.com	(439) 555-6057	2026-08-11 02:45:00	Lead			Indeed	Dallas			
+173	Ezra Johnson	ezra.johnson16@example.com	(587) 555-9784	2026-10-02T20:18:49.479Z	Passed quiz		Oct 5, 2026	Facebook	Denver		Pass	
+52	Julian Davis	julian.davis59@example.com	(810) 555-8385	Aug 19, 2026	Disqualified			Indeed	Las Vegas		Fail	
+77	Lucas Lopez	lucas.lopez23@example.com	(705) 555-3487	Aug 19, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-08-22T23:14:48.386Z	Indeed	Phoenix	Jenna R.	Pass	
+102	Ezra Lewis	ezra.lewis10@example.com	(877) 555-9782	2026-10-01 20:28:00	1st interview no-show	No show	2026-10-08T12:00:00.000Z	Instagram	Dallas		Pass	
+318	Stella Young	stella.young43@example.com	(944) 555-1212	9/29/2026 4:06	Abandoned quiz			TikTok	Phoenix			Q1
+420	Ellie Reyes	ellie.reyes98@example.com	(702) 555-1641	2026-08-14 16:44:00	1st interview showed	Held 1st interview	2026-08-21T11:45:48.946Z	TikTok	Las Vegas		Pass	
+94	Ezra Anderson	ezra.anderson62@example.com	(827) 555-8602	2026-10-07 02:52:00	Lead			Instagram	Phoenix			
+124	Lucas Garcia	lucas.garcia92@example.com	(380) 555-6540	Sep 16, 2026	Lead			Instagram	Tampa			
+240	Jayden Young	jayden.young14@example.com	(830) 555-6906	2026-09-10 08:12:00	1st interview showed	Held 1st interview	2026-09-22T09:25:35.128Z	TikTok	Denver		Pass	
+444	Stella Young		(944) 555-1212	9/29/2026 4:06	Abandoned quiz			TikTok	Phoenix			Q1
+235	Olivia Reyes	olivia.reyes49@example.com	(249) 555-2188	2026-08-21T08:16:51.419Z	Passed quiz		9/1/2026 18:57	TikTok	Dallas		Pass	
+257	Zoe Flores	zoe.flores21@example.com	(582) 555-6907	8/26/2026 14:25	Passed quiz		Sep 2, 2026	Facebook	Denver		Pass	
+112	Ellie Moore	ellie.moore91@example.com	(956) 555-7924	2026-09-16T12:10:41.136Z	Abandoned quiz			Facebook	Dallas			Q5
+282	Leo Nguyen	leo.nguyen20@example.com	(804) 555-6438	2026-08-30T01:46:01.084Z	Disqualified			Indeed	Denver		Fail	
+278	Layla Flores	layla.flores39@example.com	(359) 555-1282	2026-08-16 08:03:00	Disqualified			Indeed	Las Vegas		Fail	
+28	Camila Anderson	camila.anderson28@example.com	(311) 555-7943	Oct 7, 2026	Disqualified			Indeed	Las Vegas		Fail	
+417	Lily Flores	lily.flores91@example.com	(734) 555-7812	Aug 11, 2026	2nd interview showed	Held 2nd interview - undetermined outcome	2026-08-12 20:53:00	Indeed	Phoenix	Carlos M.	Pass	
+436	Jayden Adams		(482) 555-3716	Sep 7, 2026	Abandoned quiz			Facebook	Tampa			Q2
+338	Aurora Baker	aurora.baker82@example.com	(231) 555-2570	2026-09-20 01:08:00	2nd interview showed	Held 2nd interview - undetermined outcome	10/2/2026 7:55	Referral	Phoenix	Tyrell B.	Pass	
+21	Chloe Young	chloe.young73@example.com	(313) 555-1614	2026-09-12T04:33:12.757Z	Hired	Hired	9/22/2026 8:04	Instagram	Tampa	Carlos M.	Pass	
+300	Ethan Scott	ethan.scott52@example.com	(521) 555-5404	2026-10-04 05:44:00	1st interview showed	Held 1st interview	2026-10-05T23:40:28.804Z	Referral	Las Vegas	Carlos M.	Pass	
+396	Leo Lewis	leo.lewis37@example.com	(442) 555-2303	2026-08-11 17:53:00	Abandoned quiz			Referral	Tampa			Q1
+202	Elijah Walker	elijah.walker96@example.com	(617) 555-3443	2026-08-12T17:16:44.186Z	1st interview booked		2026-08-17 01:29:00	Instagram	Denver		Pass	
+342	Zoe Ramirez	zoe.ramirez86@example.com	(333) 555-6774	2026-08-26T16:09:38.427Z	2nd interview booked	Held 1st interview	2026-09-02 03:17:00	Indeed	Tampa	Tyrell B.	Pass	
+11	Aurora Clark	aurora.clark82@example.com	(364) 555-0795	8/28/2026 20:38	Abandoned quiz			Indeed	Tampa			Q1
+80	Hazel Moore	hazel.moore93@example.com	(361) 555-9758	Aug 18, 2026	1st interview no-show	No show	Aug 23, 2026	Indeed	Phoenix		Pass	
+357	Elijah Smith	elijah.smith55@example.com	(629) 555-5957	Aug 10, 2026	2nd interview booked	Held 1st interview	2026-08-14T15:28:58.395Z	Indeed	Phoenix	Tyrell B.	Pass	
+18	Jayden Ramirez	jayden.ramirez98@example.com	(692) 555-6060	2026-09-21 17:50:00	Lead			Facebook	Phoenix			
+345	Isabella Taylor	isabella.taylor97@example.com	(609) 555-1278	9/30/2026 5:22	Lead			Referral	Tampa			
+154	Ethan Anderson	ethan.anderson45@example.com	(692) 555-8434	9/5/2026 12:23	2nd interview showed	Held 2nd interview - undetermined outcome	9/8/2026 22:56	Instagram	Dallas	Carlos M.	Pass	
+383	Caleb Torres	caleb.torres29@example.com	(638) 555-9758	2026-09-24 08:05:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-30T04:04:26.976Z	Facebook	Phoenix		Pass	
+295	Violet Lopez	violet.lopez17@example.com	(359) 555-5085	2026-09-09T08:21:20.049Z	Abandoned quiz			Facebook	Denver			Q6
+179	Mateo Lee	mateo.lee35@example.com	(445) 555-5439	Aug 22, 2026	1st interview booked		2026-08-26T08:33:03.217Z	Indeed	Tampa		Pass	
+406	Camila Reyes	camila.reyes27@example.com	(426) 555-8635	2026-10-06T03:16:34.256Z	Disqualified			Facebook	Denver		Fail	
+111	Zoe Brown	zoe.brown48@example.com	(640) 555-1996	2026-09-29 23:10:00	2nd interview showed	Held 2nd interview - undetermined outcome	Oct 8, 2026	Referral	Dallas	Jenna R.	Pass	
+368	Wyatt Davis	wyatt.davis38@example.com	(456) 555-9910	2026-09-07T14:03:49.512Z	Lead			TikTok	Las Vegas			
+100	Carter Scott	carter.scott34@example.com	(430) 555-1201	2026-09-05T10:45:16.851Z	1st interview booked		2026-09-15T02:35:19.991Z	TikTok	Denver		Pass	
+373	Isabella Ramirez	isabella.ramirez89@example.com	(708) 555-3058	2026-08-21T11:43:29.299Z	Lead			Facebook	Dallas			
+134	Wyatt Anderson	wyatt.anderson22@example.com	(923) 555-9555	2026-08-27 16:06:00	Passed quiz		8/30/2026 10:23	Instagram	Denver		Pass	
+93	Caleb Green	caleb.green53@example.com	(628) 555-1283	2026-09-02T09:02:04.208Z	Disqualified			Instagram	Las Vegas		Fail	
+175	Noah Reyes	noah.reyes58@example.com	(837) 555-9283	Aug 10, 2026	Abandoned quiz			Facebook	Dallas			Q4
+172	Aria Green	aria.green20@example.com	(311) 555-6116	2026-08-16T09:02:15.173Z	Abandoned quiz			Referral	Phoenix			Q1
+314	Aria Adams	aria.adams29@example.com	(967) 555-1117	2026-09-09 02:15:00	1st interview showed	Held 1st interview	2026-09-14 08:53:00	Instagram	Las Vegas	Jenna R.	Pass	
+400	Mia Johnson	mia.johnson27@example.com	(950) 555-6978	8/17/2026 16:23	2nd interview booked	Held 1st interview	8/29/2026 21:40	Facebook	Dallas	Jenna R.	Pass	
+333	Ava Walker	ava.walker29@example.com	(606) 555-2022	Aug 20, 2026	1st interview showed	Held 1st interview	Aug 29, 2026	Referral	Phoenix		Pass	
+245	Hazel Smith	hazel.smith17@example.com	(513) 555-6490	2026-09-08T15:59:40.850Z	Lead			TikTok	Las Vegas			
+410	Lucas Clark	lucas.clark76@example.com	(409) 555-6653	8/20/2026 12:24	2nd interview showed	Held 2nd interview - undetermined outcome	2026-08-21 16:03:00	Facebook	Las Vegas	Jenna R.	Pass	
+186	Julian Hill	julian.hill88@example.com	(955) 555-7714	Sep 29, 2026	Lead			Indeed	Phoenix			
+364	Layla Garcia	layla.garcia19@example.com	(724) 555-0644	8/30/2026 4:51	2nd interview booked	Held 1st interview	Sep 2, 2026	Indeed	Tampa	Carlos M.	Pass	
+104	Liam Wilson	liam.wilson13@example.com	(928) 555-9769	9/10/2026 6:29	Lead			Instagram	Denver			
+164	Aurora Smith	aurora.smith37@example.com	(406) 555-9160	Aug 15, 2026	1st interview showed	Held 1st interview	Aug 27, 2026	TikTok	Dallas		Pass	
+208	Nora Rivera	nora.rivera41@example.com	(323) 555-7439	2026-08-24 19:58:00	1st interview showed	Held 1st interview	2026-08-29 23:20:00	Instagram	Tampa		Pass	
+230	Leo Allen	leo.allen54@example.com	(500) 555-0952	2026-09-14T10:02:24.140Z	Abandoned quiz			Referral	Dallas			Q5
+266	Ivy Johnson	ivy.johnson96@example.com	(848) 555-2251	2026-10-07T07:52:55.776Z	Passed quiz		10/8/2026 12:00	Indeed	Las Vegas		Pass	
+145	Chloe Anderson	chloe.anderson62@example.com	(247) 555-9227	2026-09-09T09:21:48.009Z	Hired	Hired	2026-09-19T23:34:38.068Z	TikTok	Dallas		Pass	
+194	Emma Young	emma.young17@example.com	(619) 555-0187	2026-08-24 13:10:00	Disqualified			Indeed	Tampa		Fail	
+213	Aria Clark	aria.clark37@example.com	(733) 555-2350	8/28/2026 17:55	1st interview booked		9/1/2026 0:09	Referral	Las Vegas		Pass	
+265	Ava Moore	ava.moore21@example.com	(961) 555-5078	2026-09-16T09:43:02.049Z	Lead			Indeed	Phoenix			
+82	Olivia Nguyen	olivia.nguyen10@example.com	(482) 555-0905	9/10/2026 7:16	2nd interview showed	Held 2nd interview - undetermined outcome	2026-09-20 12:58:00	Instagram	Dallas		Pass	
+37	Leo Smith	leo.smith39@example.com	(473) 555-1400	2026-09-23 08:20:00	Disqualified			TikTok	Tampa		Fail	
+348	Elijah Davis	elijah.davis58@example.com	(984) 555-5901	Aug 26, 2026	Abandoned quiz			TikTok	Tampa			Q1
+331	Ellie Flores	ellie.flores93@example.com	(689) 555-9003	2026-08-29 09:28:00	Abandoned quiz			Referral	Tampa			Q1
+156	Julian Ramirez	julian.ramirez92@example.com	(470) 555-6438	Oct 4, 2026	Lead			Facebook	Las Vegas			
+385	Jayden Martinez	jayden.martinez67@example.com	(954) 555-2159	Aug 27, 2026	Lead			Referral	Denver			
+207	Liam Rivera	liam.rivera32@example.com	(371) 555-6653	Sep 6, 2026	1st interview showed	Held 1st interview	Sep 13, 2026	TikTok	Phoenix		Pass	
+233	Aiden King	aiden.king27@example.com	(980) 555-9590	2026-10-01 23:20:00	Disqualified			TikTok	Denver		Fail	
+308	Hazel Torres	hazel.torres21@example.com	(807) 555-4847	2026-09-29T20:30:29.347Z	Lead			Instagram	Las Vegas			
+107	Nora Lee	nora.lee18@example.com	(281) 555-6900	9/19/2026 15:13	1st interview showed	Held 1st interview	2026-09-27 14:44:00	Instagram	Dallas		Pass	
+113	Noah Davis	noah.davis38@example.com	(868) 555-9366	2026-09-16T17:06:17.694Z	Abandoned quiz			Indeed	Phoenix			Q2
+157	Lucas Scott	lucas.scott20@example.com	(293) 555-0490	9/15/2026 19:56	Lead			TikTok	Dallas			
+195	Aiden Garcia	aiden.garcia45@example.com	(787) 555-1036	Aug 23, 2026	Lead			TikTok	Phoenix			
+38	Elijah Lee	elijah.lee60@example.com	(808) 555-9964	8/30/2026 15:39	Lead			TikTok	Tampa			
+161	Chloe Brown	chloe.brown64@example.com	(407) 555-0226	Sep 10, 2026	2nd interview booked	Held 1st interview	2026-09-18 19:28:00	Referral	Phoenix	Jenna R.	Pass	
+411	Zoe Johnson	zoe.johnson70@example.com	(449) 555-8687	10/5/2026 2:29	Disqualified			TikTok	Phoenix		Fail	
+105	Mateo Garcia	mateo.garcia47@example.com	(724) 555-2527	Sep 4, 2026	Lead			Indeed	Las Vegas			
+251	Nora Walker	nora.walker25@example.com	(535) 555-6485	2026-08-21T03:09:19.381Z	2nd interview booked	Held 1st interview	2026-08-29T22:52:05.760Z	TikTok	Denver	Tyrell B.	Pass	
+7	Stella Smith	stella.smith33@example.com	(630) 555-8746	2026-09-04T07:39:25.015Z	Lead			Indeed	Dallas			
+4	Chloe Lee	chloe.lee34@example.com	(592) 555-6327	8/10/2026 23:33	2nd interview booked	Held 1st interview	2026-08-15T21:52:31.059Z	TikTok	Dallas	Carlos M.	Pass	
+252	Mia Martinez	mia.martinez52@example.com	(277) 555-3826	8/16/2026 9:27	Abandoned quiz			Instagram	Dallas			Q2
+144	Leo Taylor	leo.taylor48@example.com	(356) 555-8317	2026-10-05T10:09:32.862Z	Disqualified			Referral	Las Vegas		Fail	
+392	Isabella Martinez	isabella.martinez72@example.com	(971) 555-6097	2026-08-12 04:28:00	1st interview booked		2026-08-23 21:39:00	Referral	Denver		Pass	
+68	Liam Adams	liam.adams23@example.com	(496) 555-1036	8/22/2026 16:16	Lead			Referral	Dallas			
+361	Aiden Taylor	aiden.taylor77@example.com	(973) 555-5758	10/6/2026 6:30	Abandoned quiz			Instagram	Tampa			Q1
+155	Hudson Hernandez	hudson.hernandez25@example.com	(830) 555-7001	2026-08-20 09:04:00	Disqualified			Referral	Dallas		Fail	
+305	Jayden Rivera	jayden.rivera77@example.com	(245) 555-5153	2026-09-08 22:14:00	Lead			Facebook	Las Vegas			
+109	Hudson Martinez	hudson.martinez14@example.com	(501) 555-0812	2026-09-27T11:55:36.388Z	Abandoned quiz			Referral	Tampa			Q5
+189	Levi Brown	levi.brown88@example.com	(849) 555-7641	2026-10-04 21:01:00	2nd interview showed	Held 2nd interview - undetermined outcome	2026-10-08T12:00:00.000Z	Instagram	Tampa		Pass	
+149	Leo Moore	leo.moore86@example.com	(673) 555-5773	10/5/2026 13:39	1st interview booked		Oct 8, 2026	Instagram	Dallas		Pass	
+55	Ivy Hill	ivy.hill91@example.com	(877) 555-1039	2026-08-16T16:59:37.827Z	2nd interview booked	Held 1st interview	8/26/2026 18:32	Instagram	Dallas		Pass	
+39	Carter Young	carter.young95@example.com	(741) 555-0580	2026-08-21T18:51:05.627Z	Lead			Instagram	Phoenix			
