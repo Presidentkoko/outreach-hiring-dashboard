@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f6f7fb;
+  --surface: #ffffff;
+  --surface-2: #f1f3f9;
+  --border: #e4e7ef;
+  --text: #0f172a;
+  --muted: #64748b;
+  --accent: #4f46e5;
+  --accent-soft: #eef2ff;
+  --good: #059669;
+  --good-soft: #ecfdf5;
+  --bad: #dc2626;
+  --bad-soft: #fef2f2;
+  --live: #10b981;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b0f1a;
+    --surface: #111827;
+    --surface-2: #1a2232;
+    --border: #243044;
+    --text: #e5e7eb;
+    --muted: #94a3b8;
+    --accent: #818cf8;
+    --accent-soft: #1e1b4b;
+    --good: #34d399;
+    --good-soft: #052e22;
+    --bad: #f87171;
+    --bad-soft: #3b0a0a;
+    --live: #34d399;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-live: var(--live);
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+html { color-scheme: light dark; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Card with a soft lift on hover. */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px -12px rgb(15 23 42 / 0.25);
+  border-color: color-mix(in oklab, var(--accent) 35%, var(--border));
+}
+
+/* Pulsing live dot. */
+@keyframes pulse-ring {
+  0% { transform: scale(1); opacity: 0.8; }
+  100% { transform: scale(2.6); opacity: 0; }
+}
+.live-dot { position: relative; width: 8px; height: 8px; border-radius: 9999px; background: var(--live); }
+.live-dot::after {
+  content: ""; position: absolute; inset: 0; border-radius: 9999px; background: var(--live);
+  animation: pulse-ring 1.6s ease-out infinite;
+}
+
+/* Number flash when a value changes. */
+@keyframes flash { 0% { background: var(--accent-soft); } 100% { background: transparent; } }
+.flash { animation: flash 1.2s ease-out; }
+
+.tabular { font-variant-numeric: tabular-nums; }
+
+/* Thin scrollbars for the wide table on phones. */
+.scroll-x { overflow-x: auto; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
